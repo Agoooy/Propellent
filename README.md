@@ -16,7 +16,7 @@ Propellent is a website built for software startups and small businesses to show
 
 ![App Screenshot](https://media.contra.com/image/upload/c_limit,fl_lossy,w_850/v1717297083/mmeeqa6etyz4alffts5o.png)
 
-[View Live Demo](https://propellent.vercel.app/)
+[View Live Demo](https://mypropellent.vercel.app/)
 
 ## Run Locally
 
